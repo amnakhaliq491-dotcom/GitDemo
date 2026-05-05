@@ -3,11 +3,11 @@
 ->git rm --cache 
 ->git commit -m "msg"
 ->git restore
-<<<<<<< HEAD
+
 ->git remote set-url origin
 ->git branch -M main
 ->git push -u origin main
-->git brach
-=======
+->git branch
+->git switch dev
+
 There are changes
->>>>>>> cc44b75ee395899caabe8e08a0f11be38122e1ec
