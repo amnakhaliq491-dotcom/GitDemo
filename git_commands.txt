@@ -3,3 +3,4 @@
 ->git rm --cache 
 ->git commit -m "msg"
 ->git restore
+There are changes
