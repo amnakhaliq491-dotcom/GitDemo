@@ -3,3 +3,6 @@
 ->git rm --cache 
 ->git commit -m "msg"
 ->git restore
+->git remote set-url origin
+->git branch -M main
+->git push -u origin main
